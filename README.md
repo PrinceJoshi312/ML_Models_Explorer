@@ -1,4 +1,4 @@
-````markdown
+
 # 🧠 ML Model Explorer App
 
 A powerful, interactive web app to **train, visualize, and explore machine learning models** without writing any code. Ideal for **educators**, **students**, and **non-technical stakeholders** who want to understand how ML works — using their own datasets.
