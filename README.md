@@ -104,7 +104,10 @@ You can try the app using:
 
 ## 📸 Screenshots
 
-> *(Add screenshots of the UI: file upload, model selection, evaluation metrics, graphs, etc.)*
+> ![image](https://github.com/user-attachments/assets/4c20454b-d561-4b8d-9a07-67352bec87ba)
+> ![image](https://github.com/user-attachments/assets/22b81faf-6534-4490-915d-5f12f6e4a1df)
+
+
 
 ---
 
