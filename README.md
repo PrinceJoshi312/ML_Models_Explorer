@@ -127,15 +127,4 @@ Pull requests and suggestions are welcome. Let’s make ML accessible to everyon
 
 Created with ❤️ to make machine learning approachable for educators, students, and curious minds.
 
-```
 
----
-
-### ✅ Key Improvements Made:
-- **Clearer headings and bullet alignment**
-- **Smarter language for professionalism**
-- **Better section flow** (especially for education and tech stack)
-- **Consistent markdown formatting**
-
-Let me know if you'd like this converted to a file (`README.md`) or included in the downloadable ZIP package.
-```
